@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="$E4Ev:6wS|+(kB3Eqo{+">definir</variable><variable id="5MuK3#Th!:I?pa6zIp#[">definir brilho</variable><variable id="|aG=SDeHs[MBZ}bpngQv">sound level</variable></variables><block type="pxt-on-start" id="5/_D9iMdW#In_4%T:3w(" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="yFeyH/X][XchU@5@R|:u"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block><block type="device_forever" id="bML;[VIWXkIRcphW#/;m" x="347" y="64"><statement name="HANDLER"><block type="variables_set" id="k^TL+N48YJ7no#bs@,+1"><field name="VAR" id="5MuK3#Th!:I?pa6zIp#[">definir brilho</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="Rf;8KTj]q=.q|l-4;WH7"></block></value></block></statement></block></xml>
